@@ -16,8 +16,8 @@ A extração de conhecimento foi estruturada em múltiplos formatos através do 
 
 - **`proposta-controle-frota-jp.pdf`**: Relatório técnico definindo formalmente a arquitetura PEAS do agente e a tupla matemática do MDP (Estados, Ações, Recompensa).
 - **Áudio (`IA evita ônibus agrupados em João Pessoa.mp3`)**: Podcast sintético discutindo de forma sucinta as estratégias de controle dinâmico em redes de transporte reais.
-- **Imagem (`Tráfego Urbano Mapa Mental.png`)**: Estruturação visual comparando a abordagem clássica com a abordagem dinâmica.
+- **Imagem (`Mapa Mental.png`)**: Estruturação visual comparando a abordagem clássica com a abordagem dinâmica.
 - **`Guia_Estudos_Quiz.pdf`**: Material de fixação contendo o quiz de dificuldade avançada gerado pela IA.
 
 ## 🔗 Link do Caderno
-[Insira o link público do seu caderno do NotebookLM aqui, se desejar compartilhar]
+[[Insira o link público do seu caderno do NotebookLM aqui, se desejar compartilhar]](https://notebook.google.com/notebook/8c322a66-d271-4435-bcec-c4b1ea176214)
