@@ -14,7 +14,7 @@ Para garantir rigor matemático e técnico, o NotebookLM foi alimentado estritam
 ## 📁 Materiais Gerados (Disponíveis neste repositório)
 A extração de conhecimento foi estruturada em múltiplos formatos através do Estúdio do NotebookLM:
 
-- **`proposta-controle-frota-jp.pdf`**: Relatório técnico definindo formalmente a arquitetura PEAS do agente e a tupla matemática do MDP (Estados, Ações, Recompensa).
+- **`Guia de Estudo_ Controle de Transporte Público via Aprendizado por Reforço.pdf`**: Material de fixação contendo um resumo técnico das fontes obtidas.
 - **Áudio (`IA evita ônibus agrupados em João Pessoa.mp3`)**: Podcast sintético discutindo de forma sucinta as estratégias de controle dinâmico em redes de transporte reais.
 - **Imagem (`Mapa Mental.png`)**: Estruturação visual comparando a abordagem clássica com a abordagem dinâmica.
 - **`Guia_Estudos_Quiz.pdf`**: Material de fixação contendo o quiz de dificuldade avançada gerado pela IA.
