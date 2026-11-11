@@ -20,4 +20,4 @@ A extração de conhecimento foi estruturada em múltiplos formatos através do 
 - **`Guia_Estudos_Quiz.pdf`**: Material de fixação contendo o quiz de dificuldade avançada gerado pela IA.
 
 ## 🔗 Link do Caderno
-[[Insira o link público do seu caderno do NotebookLM aqui, se desejar compartilhar]](https://notebook.google.com/notebook/8c322a66-d271-4435-bcec-c4b1ea176214)
+[https://notebook.google.com/notebook/8c322a66-d271-4435-bcec-c4b1ea176214](https://notebook.google.com/notebook/8c322a66-d271-4435-bcec-c4b1ea176214)
